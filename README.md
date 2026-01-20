@@ -3,7 +3,7 @@
 A Generative AI based multi-agent system that collaboratively solves complex problems using specialized agents.
 
 ## 🚀 Live Demo
-(Add Hugging Face Space link after deployment)
+Link : https://huggingface.co/spaces/Arya0912/Multi-Agent-Problem-Solver
 
 ## 🧠 Agents
 - CEO Agent: High-level planning
