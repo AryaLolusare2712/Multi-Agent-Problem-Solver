@@ -6,6 +6,9 @@ This project simulates a startup-like team where each agent (CEO, Researcher, Co
 Built with **Gradio** for a sleek UI, **Matplotlib + NetworkX** for workflow visualization, and **ReportLab** for optional PDF export.
 
 ---
+## 🚀 Live Demo
+**Link** : x
+---
 
 ## ✨ Features
 
