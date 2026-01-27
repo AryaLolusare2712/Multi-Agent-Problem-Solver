@@ -1,8 +1,0 @@
-gradio==4.44.1
-huggingface_hub>=0.20.0,<0.24.0
-google-generativeai
-python-dotenv
-matplotlib
-networkx
-pillow
-reportlab
