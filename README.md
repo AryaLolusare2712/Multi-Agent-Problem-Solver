@@ -1,14 +1,3 @@
----
-title: Multi-Agent Problem Solver
-emoji: ⚡
-colorFrom: purple
-colorTo: blue
-sdk: gradio
-sdk_version: 5.36.2
-app_file: app.py
-pinned: false
----
-
 # ⚡ Multi-Agent Problem Solver
 
 A Generative AI-powered multi-agent system that collaboratively solves complex problems using **4 specialized agents** powered by **Google Gemini 2.5 Flash**.
