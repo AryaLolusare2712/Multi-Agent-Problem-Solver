@@ -2,6 +2,10 @@
 
 A Generative AI-powered multi-agent system that collaboratively solves complex problems using **4 specialized agents** powered by **Google Gemini 2.5 Flash**.
 
+## 📸 Screenshots
+
+![Multi-Agent Problem Solver](docs/screenshots/multi-agent-solver.png)
+
 ## 🧠 How It Works
 
 The system pipelines your problem through 4 specialized agents in sequence:
