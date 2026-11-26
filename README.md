@@ -1,5 +1,21 @@
 # Multi-Agent Problem Solver
 
+## Architecture
+
+```mermaid
+flowchart LR
+  U[Problem] --> O[Agent orchestrator]
+  O --> A1[Research agent]
+  O --> A2[Analysis agent]
+  O --> A3[Strategy agent]
+  O --> A4[Critique agent]
+  A1 --> S[Final synthesis]
+  A2 --> S
+  A3 --> S
+  A4 --> S
+  S --> R[Polished response]
+```
+
 A Generative AI-powered multi-agent system that collaboratively solves complex problems using **4 specialized agents** powered by **Google Gemini 2.5 Flash**.
 
 ## Screenshots
