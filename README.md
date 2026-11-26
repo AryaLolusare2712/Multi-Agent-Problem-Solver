@@ -1,5 +1,9 @@
 # Multi-Agent Problem Solver
 
+## Project contribution
+
+Illustrates how specialised AI roles can divide research, reasoning, strategy, and critique before producing a consolidated answer.
+
 ## Architecture
 
 ```mermaid
@@ -17,6 +21,8 @@ flowchart LR
 ```
 
 A Generative AI-powered multi-agent system that collaboratively solves complex problems using **4 specialized agents** powered by **Google Gemini 2.5 Flash**.
+
+[![Live demo](https://img.shields.io/badge/Live%20demo-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Arya0912/Multi-Agent_Problem_Solver)
 
 ## Screenshots
 
